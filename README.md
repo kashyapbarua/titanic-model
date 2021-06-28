@@ -8,8 +8,10 @@ models and also get their hand dirty on Feature Engineering. The dataset is a po
 
 ### What are the contents of the repository?
 [Jupyter notebook](https://github.com/kashyapbarua/titanic-model/blob/main/titanic-feature-engg.ipynb)
+
 [Readme](https://github.com/kashyapbarua/titanic-model/blob/main/README.md)
-[Dataset]()
+
+[Dataset](https://github.com/kashyapbarua/titanic-model/tree/main/dataset)
 
 ### What are the packages used in this project?
 
